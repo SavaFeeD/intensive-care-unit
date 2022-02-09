@@ -2,4 +2,4 @@
 ML training
 
 
->> All analize in master branch
+> All analize in master branch
